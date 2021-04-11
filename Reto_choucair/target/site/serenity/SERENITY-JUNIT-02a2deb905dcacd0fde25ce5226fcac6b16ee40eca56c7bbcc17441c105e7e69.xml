@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Contact Us" skipped="0" tests="4" time="113.28" timestamp="2021-04-10 07:48:27"><testcase name="Just click on Send"/><testcase name="Send a Message"/><testcase name="Send a Message without subject"/><testcase name="Send a Message in blank"/></testsuite>

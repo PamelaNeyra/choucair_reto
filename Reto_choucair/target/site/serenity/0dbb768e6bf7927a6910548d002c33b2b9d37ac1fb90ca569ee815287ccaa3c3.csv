@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Contact Us","Just click on Send","SUCCESS","2021-04-10T19:48:27.599-05:00[America/Bogota]","0.0","24.4"
+"Contact Us","Send a Message","SUCCESS","2021-04-10T19:48:52.439-05:00[America/Bogota]","0.0","31.3"
+"Contact Us","Send a Message without subject","SUCCESS","2021-04-10T19:49:23.735-05:00[America/Bogota]","0.0","27.26"
+"Contact Us","Send a Message in blank","SUCCESS","2021-04-10T19:49:50.998-05:00[America/Bogota]","0.0","30.32"

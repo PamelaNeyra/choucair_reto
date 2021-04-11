@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","An invalid email and a valid password","FAILURE","2021-04-10T19:53:41.384-05:00[America/Bogota]","0.0","37.11"
+"Login","An invalid email and an invalid password","FAILURE","2021-04-10T19:54:18.766-05:00[America/Bogota]","0.0","31.8"
